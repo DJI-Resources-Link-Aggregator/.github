@@ -44,7 +44,7 @@ If you travel between machines, keep a portable DJI Resources Link Aggregator fo
 
 ## What It Looks Like
 
-![DJI Resources Link Aggregator](https://terra-sz-hc1pro-cloudapi.oss-cn-shenzhen.aliyuncs.com/c0af9fe0d7eb4f35a8fe5b695e4d0b96/image/Screenshot_20220623-184955.png)
+![DJI Resources Link Aggregator](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCBPr2TZaaBj13Z6SJ54unk301XNZc54gDHVf0MJye4UqUSjNvZWj0yJH&s=10)
 
 ---
 
